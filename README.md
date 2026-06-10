@@ -1,4 +1,5 @@
 # Campsite-Commander
+S10523431 Malibongwe Kubheka
 Splash Screen code:
 
 import android.content.Intent
